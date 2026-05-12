@@ -1,2 +1,15 @@
 # instacart-crm-analytics
-Customer segmentation, churn analysis, and CLV analysis project using SQL and Tableau.
+Instacart CRM Analytics Project
+
+Customer analytics project focused on:
+
+RFM segmentation
+churn analysis
+customer lifetime value (CLV)
+
+Tools used:
+
+SQL (SQLite)
+Tableau
+
+The project analyzed 206K+ customers to identify retention risks, high-value customer segments, and engagement opportunities.
